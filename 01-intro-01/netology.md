@@ -8,6 +8,7 @@
 - MarkDown: ![4](https://i.ibb.co/MBdrm3p/Screen-Shot-2021-12-01-at-21-35-48.png)
 - Shell: ![5](https://i.ibb.co/wKRwHV1/Screen-Shot-2021-12-01-at-21-36-31.png)
 
+
 ## Задание №2
 
 Менеджер
